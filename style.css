@@ -1,0 +1,10 @@
+.loginForm{
+	margin: 0px auto;
+	margin-top: 150px;
+}
+.loginButton{
+	float: right;
+}
+.notif{
+	background-color: red;
+}
